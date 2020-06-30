@@ -8,9 +8,9 @@ This project will analyze the used car dataset, acquired from Kaggle, and will a
 
 This project package consists of the following files:
 
-1. "Meylis_Capstone_capstone.ipynb" - this notebook includes all cleaning and EDA steps, and also modelling of 10 ScikitLearn ML models and 1 XGBoost model.
+1. "Meylis_Capstone_1.ipynb" - this notebook includes all cleaning and EDA steps, and also modelling of 10 ScikitLearn ML models and 1 XGBoost model.
 
-2. "Meylis_Capstone_capstone_colab.ipynb" - this notebook was run on Google Colab space, and it includes same cleaning and EDA steps as in the first notebook, but has 2 Neural Network models. 
+2. "Meylis_Capstone_2.ipynb" - this notebook was run on Google Colab space, and it includes same cleaning and EDA steps as in the first notebook, but has 2 Neural Network models. 
 
 3. "capstone_env.yml" and "capstone_env.txt" - project conda environment - all the packages needed to run the jupyter notebooks. If you want to run those jupyter notebooks and you don't have some of the packages, eg XGBoost, then you might want to install this conda environment.
 
